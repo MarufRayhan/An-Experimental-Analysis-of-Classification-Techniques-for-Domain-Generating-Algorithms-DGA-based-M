@@ -1,0 +1,960 @@
+{'Model name': 'LogisticRegression', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.8315940356949324, 'Test Set Accuracy': 0.786377221960044, 'Precision score: ': 0.8697081792026305, 'Recall score: ': 0.6702565726955971, 'f1 score: ': 0.7570661896243293, 'log loss': 7.378309236538317}              precision    recall  f1-score   support
+
+           0       0.73      0.90      0.81      3200
+           1       0.87      0.67      0.76      3157
+
+    accuracy                           0.79      6357
+   macro avg       0.80      0.79      0.78      6357
+weighted avg       0.80      0.79      0.78      6357
+col_0     0     1
+Class            
+0      2883   317
+1      1041  2116{'Model name': 'LogisticRegression', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.8297935567325677, 'Test Set Accuracy': 0.7890514393581878, 'Precision score: ': 0.8752066115702479, 'Recall score: ': 0.6708900855242319, 'f1 score: ': 0.7595481441635289, 'log loss': 7.2859431530594865}              precision    recall  f1-score   support
+
+           0       0.74      0.91      0.81      3200
+           1       0.88      0.67      0.76      3157
+
+    accuracy                           0.79      6357
+   macro avg       0.81      0.79      0.79      6357
+weighted avg       0.81      0.79      0.79      6357
+col_0     0     1
+Class            
+0      2898   302
+1      1039  2118{'Model name': 'LogisticRegression', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.831349310399077, 'Test Set Accuracy': 0.7871637564889099, 'Precision score: ': 0.8758333333333334, 'Recall score: ': 0.6658219828951536, 'f1 score: ': 0.7565233039409753, 'log loss': 7.351140906457189}
+              precision    recall  f1-score   support
+
+           0       0.73      0.91      0.81      3200
+           1       0.88      0.67      0.76      3157
+
+    accuracy                           0.79      6357
+   macro avg       0.80      0.79      0.78      6357
+weighted avg       0.80      0.79      0.78      6357
+
+col_0     0     1
+Class            
+0      2902   298
+1      1055  2102
+{'Model name': 'LogisticRegression', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.8308248990508155, 'Test Set Accuracy': 0.787321063394683, 'Precision score: ': 0.8784067085953878, 'Recall score: ': 0.6636046879949319, 'f1 score: ': 0.7560447491880187, 'log loss': 7.345706712155734}
+              precision    recall  f1-score   support
+
+           0       0.73      0.91      0.81      3200
+           1       0.88      0.66      0.76      3157
+
+    accuracy                           0.79      6357
+   macro avg       0.81      0.79      0.78      6357
+weighted avg       0.81      0.79      0.78      6357
+
+col_0     0     1
+Class            
+0      2910   290
+1      1062  2095
+{'Model name': 'LogisticRegression', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.8319960843952663, 'Test Set Accuracy': 0.7877929841120025, 'Precision score: ': 0.8776106934001671, 'Recall score: ': 0.6655052264808362, 'f1 score: ': 0.756980724193839, 'log loss': 7.329407525370702}
+              precision    recall  f1-score   support
+
+           0       0.73      0.91      0.81      3200
+           1       0.88      0.67      0.76      3157
+
+    accuracy                           0.79      6357
+   macro avg       0.81      0.79      0.78      6357
+weighted avg       0.81      0.79      0.78      6357
+
+col_0     0     1
+Class            
+0      2907   293
+1      1056  2101
+{'Model name': 'RandomForestClassifier', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.9993881867603615, 'Test Set Accuracy': 0.7220386974988202, 'Precision score: ': 0.8785403050108932, 'Recall score: ': 0.51092809629395, 'f1 score: ': 0.6461045463649109, 'log loss': 9.600471322956444}
+              precision    recall  f1-score   support
+
+           0       0.66      0.93      0.77      3200
+           1       0.88      0.51      0.65      3157
+
+    accuracy                           0.72      6357
+   macro avg       0.77      0.72      0.71      6357
+weighted avg       0.77      0.72      0.71      6357
+
+col_0     0     1
+Class            
+0      2977   223
+1      1544  1613
+{'Model name': 'RandomForestClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.999458108273463, 'Test Set Accuracy': 0.7041057102406796, 'Precision score: ': 0.9230769230769231, 'Recall score: ': 0.44092492872980676, 'f1 score: ': 0.5967845659163987, 'log loss': 10.219841301263001}
+              precision    recall  f1-score   support
+
+           0       0.64      0.96      0.77      3200
+           1       0.92      0.44      0.60      3157
+
+    accuracy                           0.70      6357
+   macro avg       0.78      0.70      0.68      6357
+weighted avg       0.78      0.70      0.68      6357
+
+col_0     0     1
+Class            
+0      3084   116
+1      1765  1392
+{'Model name': 'RandomForestClassifier', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.9994056671386369, 'Test Set Accuracy': 0.7451628126474752, 'Precision score: ': 0.8806339772164438, 'Recall score: ': 0.5631929046563193, 'f1 score: ': 0.6870170015455951, 'log loss': 8.801794944586437}
+              precision    recall  f1-score   support
+
+           0       0.68      0.92      0.79      3200
+           1       0.88      0.56      0.69      3157
+
+    accuracy                           0.75      6357
+   macro avg       0.78      0.74      0.74      6357
+weighted avg       0.78      0.75      0.74      6357
+
+col_0     0     1
+Class            
+0      2959   241
+1      1379  1778
+{'Model name': 'RandomForestClassifier', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.99931826524726, 'Test Set Accuracy': 0.6990718892559383, 'Precision score: ': 0.9049479166666666, 'Recall score: ': 0.440291415901172, 'f1 score: ': 0.5923716173023652, 'log loss': 10.393707092132916}
+              precision    recall  f1-score   support
+
+           0       0.63      0.95      0.76      3200
+           1       0.90      0.44      0.59      3157
+
+    accuracy                           0.70      6357
+   macro avg       0.77      0.70      0.68      6357
+weighted avg       0.77      0.70      0.68      6357
+
+col_0     0     1
+Class            
+0      3054   146
+1      1767  1390
+{'Model name': 'MultinomialNB', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.9840753753911234, 'Test Set Accuracy': 0.8104451785433381, 'Precision score: ': 0.8891547049441786, 'Recall score: ': 0.7063668039277795, 'f1 score: ': 0.7872903795233892, 'log loss': 6.547026560319799}
+              precision    recall  f1-score   support
+
+           0       0.76      0.91      0.83      3200
+           1       0.89      0.71      0.79      3157
+
+    accuracy                           0.81      6357
+   macro avg       0.82      0.81      0.81      6357
+weighted avg       0.82      0.81      0.81      6357
+
+col_0     0     1
+Class            
+0      2922   278
+1       927  2230
+{'Model name': 'MultinomialNB', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.9836733266907896, 'Test Set Accuracy': 0.8063551989932358, 'Precision score: ': 0.8924205378973105, 'Recall score: ': 0.6936965473550839, 'f1 score: ': 0.780609517020139, 'log loss': 6.688287688509773}
+              precision    recall  f1-score   support
+
+           0       0.75      0.92      0.83      3200
+           1       0.89      0.69      0.78      3157
+
+    accuracy                           0.81      6357
+   macro avg       0.82      0.81      0.80      6357
+weighted avg       0.82      0.81      0.80      6357
+
+col_0     0     1
+Class            
+0      2936   264
+1       967  2190
+{'Model name': 'MultinomialNB', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.9850018354397189, 'Test Set Accuracy': 0.8063551989932358, 'Precision score: ': 0.895320197044335, 'Recall score: ': 0.6908457396262274, 'f1 score: ': 0.779903450741999, 'log loss': 6.688286556469995}
+              precision    recall  f1-score   support
+
+           0       0.75      0.92      0.83      3200
+           1       0.90      0.69      0.78      3157
+
+    accuracy                           0.81      6357
+   macro avg       0.82      0.81      0.80      6357
+weighted avg       0.82      0.81      0.80      6357
+
+col_0     0     1
+Class            
+0      2945   255
+1       976  2181
+{'Model name': 'MultinomialNB', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.9850193158179943, 'Test Set Accuracy': 0.8077709611451943, 'Precision score: ': 0.8944150020383205, 'Recall score: ': 0.6949635730123535, 'f1 score: ': 0.782174688057041, 'log loss': 6.639388367203914}
+              precision    recall  f1-score   support
+
+           0       0.75      0.92      0.83      3200
+           1       0.89      0.69      0.78      3157
+
+    accuracy                           0.81      6357
+   macro avg       0.82      0.81      0.81      6357
+weighted avg       0.82      0.81      0.81      6357
+
+col_0     0     1
+Class            
+0      2941   259
+1       963  2194
+{'Model name': 'BernoulliNB', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.8426591151432516, 'Test Set Accuracy': 0.7977033191757118, 'Precision score: ': 0.8832445718967636, 'Recall score: ': 0.6829268292682927, 'f1 score: ': 0.7702750982493748, 'log loss': 6.987115672349024}
+              precision    recall  f1-score   support
+
+           0       0.74      0.91      0.82      3200
+           1       0.88      0.68      0.77      3157
+
+    accuracy                           0.80      6357
+   macro avg       0.81      0.80      0.79      6357
+weighted avg       0.81      0.80      0.79      6357
+
+col_0     0     1
+Class            
+0      2915   285
+1      1001  2156
+{'Model name': 'BernoulliNB', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.8424493506039471, 'Test Set Accuracy': 0.7745792040270568, 'Precision score: ': 0.8018207282913166, 'Recall score: ': 0.725372188786823, 'f1 score: ': 0.7616830201230668, 'log loss': 7.785829659596113}
+              precision    recall  f1-score   support
+
+           0       0.75      0.82      0.79      3200
+           1       0.80      0.73      0.76      3157
+
+    accuracy                           0.77      6357
+   macro avg       0.78      0.77      0.77      6357
+weighted avg       0.78      0.77      0.77      6357
+
+col_0     0     1
+Class            
+0      2634   566
+1       867  2290
+{'Model name': 'BernoulliNB', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.8411033614767424, 'Test Set Accuracy': 0.7835456976561271, 'Precision score: ': 0.8163410301953818, 'Recall score: ': 0.7279062401013621, 'f1 score: ': 0.7695914266577359, 'log loss': 7.476131777767581}
+              precision    recall  f1-score   support
+
+           0       0.76      0.84      0.80      3200
+           1       0.82      0.73      0.77      3157
+
+    accuracy                           0.78      6357
+   macro avg       0.79      0.78      0.78      6357
+weighted avg       0.79      0.78      0.78      6357
+
+col_0     0     1
+Class            
+0      2683   517
+1       859  2298
+{'Model name': 'BernoulliNB', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.8419599000122363, 'Test Set Accuracy': 0.7731634418750983, 'Precision score: ': 0.7999300454704442, 'Recall score: ': 0.7244219195438708, 'f1 score: ': 0.76030585106383, 'log loss': 7.834729106684171}
+              precision    recall  f1-score   support
+
+           0       0.75      0.82      0.78      3200
+           1       0.80      0.72      0.76      3157
+
+    accuracy                           0.77      6357
+   macro avg       0.78      0.77      0.77      6357
+weighted avg       0.78      0.77      0.77      6357
+
+col_0     0     1
+Class            
+0      2628   572
+1       870  2287
+{'Model name': 'XGBClassifier', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.7926127921408219, 'Test Set Accuracy': 0.6827119710555294, 'Precision score: ': 0.847985347985348, 'Recall score: ': 0.4399746594868546, 'f1 score: ': 0.5793534932221063, 'log loss': 10.958771604262225}
+              precision    recall  f1-score   support
+
+           0       0.63      0.92      0.75      3200
+           1       0.85      0.44      0.58      3157
+
+    accuracy                           0.68      6357
+   macro avg       0.74      0.68      0.66      6357
+weighted avg       0.74      0.68      0.66      6357
+
+col_0     0     1
+Class            
+0      2951   249
+1      1768  1389
+{'Model name': 'XGBClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.7932420857587358, 'Test Set Accuracy': 0.6924649992134655, 'Precision score: ': 0.8651275820170109, 'Recall score: ': 0.45106113398796327, 'f1 score: ': 0.592962731626067, 'log loss': 10.621910549422665}
+              precision    recall  f1-score   support
+
+           0       0.63      0.93      0.75      3200
+           1       0.87      0.45      0.59      3157
+
+    accuracy                           0.69      6357
+   macro avg       0.75      0.69      0.67      6357
+weighted avg       0.75      0.69      0.67      6357
+
+col_0     0     1
+Class            
+0      2978   222
+1      1733  1424
+{'Model name': 'XGBClassifier', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.792210743440488, 'Test Set Accuracy': 0.6868019506056315, 'Precision score: ': 0.8703939008894537, 'Recall score: ': 0.4339562876148242, 'f1 score: ': 0.5791587402240541, 'log loss': 10.817503054922593}
+              precision    recall  f1-score   support
+
+           0       0.63      0.94      0.75      3200
+           1       0.87      0.43      0.58      3157
+
+    accuracy                           0.69      6357
+   macro avg       0.75      0.69      0.66      6357
+weighted avg       0.75      0.69      0.67      6357
+
+col_0     0     1
+Class            
+0      2996   204
+1      1787  1370
+{'Model name': 'XGBClassifier', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.7943783103466359, 'Test Set Accuracy': 0.7004876514078968, 'Precision score: ': 0.8644560791157649, 'Recall score: ': 0.47070003167564145, 'f1 score: ': 0.6095159967186219, 'log loss': 10.344819342789238}
+              precision    recall  f1-score   support
+
+           0       0.64      0.93      0.76      3200
+           1       0.86      0.47      0.61      3157
+
+    accuracy                           0.70      6357
+   macro avg       0.75      0.70      0.68      6357
+weighted avg       0.75      0.70      0.68      6357
+
+col_0     0     1
+Class            
+0      2967   233
+1      1671  1486
+{'Model name': 'XGBClassifier', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.7925778313842712, 'Test Set Accuracy': 0.6888469403806827, 'Precision score: ': 0.8490230905861457, 'Recall score: ': 0.45422869813113714, 'f1 score: ': 0.591828312009905, 'log loss': 10.746878025244301}
+              precision    recall  f1-score   support
+
+           0       0.63      0.92      0.75      3200
+           1       0.85      0.45      0.59      3157
+
+    accuracy                           0.69      6357
+   macro avg       0.74      0.69      0.67      6357
+weighted avg       0.74      0.69      0.67      6357
+
+col_0     0     1
+Class            
+0      2945   255
+1      1723  1434
+{'Model name': 'XGBClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.7927875959235758, 'Test Set Accuracy': 0.6963976718577946, 'Precision score: ': 0.7600678253497245, 'Recall score: ': 0.5679442508710801, 'f1 score: ': 0.6501087744742569, 'log loss': 10.48612411740178}
+              precision    recall  f1-score   support
+
+           0       0.66      0.82      0.73      3200
+           1       0.76      0.57      0.65      3157
+
+    accuracy                           0.70      6357
+   macro avg       0.71      0.70      0.69      6357
+weighted avg       0.71      0.70      0.69      6357
+
+col_0     0     1
+Class            
+0      2634   566
+1      1364  1793
+{'Model name': 'XGBClassifier', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.793521771811142, 'Test Set Accuracy': 0.6998584237848041, 'Precision score: ': 0.851435002813731, 'Recall score: ': 0.47925245486221096, 'f1 score: ': 0.613295500608026, 'log loss': 10.36655599421286}
+              precision    recall  f1-score   support
+
+           0       0.64      0.92      0.75      3200
+           1       0.85      0.48      0.61      3157
+
+    accuracy                           0.70      6357
+   macro avg       0.75      0.70      0.68      6357
+weighted avg       0.75      0.70      0.68      6357
+
+col_0     0     1
+Class            
+0      2936   264
+1      1644  1513
+{'Model name': 'XGBClassifier', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.7946929571555928, 'Test Set Accuracy': 0.6974988201982067, 'Precision score: ': 0.7541186161449753, 'Recall score: ': 0.579980994615141, 'f1 score: ': 0.6556848701880036, 'log loss': 10.448095700342783}
+              precision    recall  f1-score   support
+
+           0       0.66      0.81      0.73      3200
+           1       0.75      0.58      0.66      3157
+
+    accuracy                           0.70      6357
+   macro avg       0.71      0.70      0.69      6357
+weighted avg       0.71      0.70      0.69      6357
+
+col_0     0     1
+Class            
+0      2603   597
+1      1326  1831
+{'Model name': 'XGBClassifier', 'N_Gram Range': [1, 5], 'Training Set Accuracy': 0.7907249112870802, 'Test Set Accuracy': 0.7486235645744849, 'Precision score: ': 0.8548020027309968, 'Recall score: ': 0.5948685460880583, 'f1 score: ': 0.7015315651849086, 'log loss': 8.682274618632611}
+              precision    recall  f1-score   support
+
+           0       0.69      0.90      0.78      3200
+           1       0.85      0.59      0.70      3157
+
+    accuracy                           0.75      6357
+   macro avg       0.77      0.75      0.74      6357
+weighted avg       0.77      0.75      0.74      6357
+
+col_0     0     1
+Class            
+0      2881   319
+1      1279  1878
+{'Model name': 'XGBClassifier', 'N_Gram Range': [1, 6], 'Training Set Accuracy': 0.7916688517139511, 'Test Set Accuracy': 0.6784646845996539, 'Precision score: ': 0.8606610499027868, 'Recall score: ': 0.4206525182134938, 'f1 score: ': 0.5651063829787234, 'log loss': 11.105463404852122}
+              precision    recall  f1-score   support
+
+           0       0.62      0.93      0.74      3200
+           1       0.86      0.42      0.57      3157
+
+    accuracy                           0.68      6357
+   macro avg       0.74      0.68      0.66      6357
+weighted avg       0.74      0.68      0.66      6357
+
+col_0     0     1
+Class            
+0      2985   215
+1      1829  1328
+{'Model name': 'XGBClassifier', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.7942035065638821, 'Test Set Accuracy': 0.6868019506056315, 'Precision score: ': 0.8461995249406176, 'Recall score: ': 0.45137789040228066, 'f1 score: ': 0.588721338566412, 'log loss': 10.817509972943462}
+              precision    recall  f1-score   support
+
+           0       0.63      0.92      0.75      3200
+           1       0.85      0.45      0.59      3157
+
+    accuracy                           0.69      6357
+   macro avg       0.74      0.69      0.67      6357
+weighted avg       0.74      0.69      0.67      6357
+
+col_0     0     1
+Class            
+0      2941   259
+1      1732  1425
+{'Model name': 'XGBClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.7907598720436311, 'Test Set Accuracy': 0.6883750196633632, 'Precision score: ': 0.8594132029339854, 'Recall score: ': 0.44535951853025024, 'f1 score: ': 0.586688921343626, 'log loss': 10.763174444820985}
+              precision    recall  f1-score   support
+
+           0       0.63      0.93      0.75      3200
+           1       0.86      0.45      0.59      3157
+
+    accuracy                           0.69      6357
+   macro avg       0.74      0.69      0.67      6357
+weighted avg       0.74      0.69      0.67      6357
+
+col_0     0     1
+Class            
+0      2970   230
+1      1751  1406
+{'Model name': 'XGBClassifier', 'N_Gram Range': [1, 6], 'Training Set Accuracy': 0.7945880748859405, 'Test Set Accuracy': 0.6751612395784174, 'Precision score: ': 0.8257756563245824, 'Recall score: ': 0.43839087741526767, 'f1 score: ': 0.5727291537347404, 'log loss': 11.219570039002702}
+              precision    recall  f1-score   support
+
+           0       0.62      0.91      0.74      3200
+           1       0.83      0.44      0.57      3157
+
+    accuracy                           0.68      6357
+   macro avg       0.72      0.67      0.66      6357
+weighted avg       0.72      0.68      0.66      6357
+
+col_0     0     1
+Class            
+0      2908   292
+1      1773  1384
+{'Model name': 'SGDClassifier', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.7739437481427098, 'Test Set Accuracy': 0.7733207487808714, 'Precision score: ': 0.8672945205479452, 'Recall score: ': 0.6417484954070319, 'f1 score: ': 0.7376661205170217, 'log loss': 7.829262963704523}
+              precision    recall  f1-score   support
+
+           0       0.72      0.90      0.80      3200
+           1       0.87      0.64      0.74      3157
+
+    accuracy                           0.77      6357
+   macro avg       0.79      0.77      0.77      6357
+weighted avg       0.79      0.77      0.77      6357
+
+col_0     0     1
+Class            
+0      2890   310
+1      1131  2026
+{'Model name': 'SGDClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.7728075235548097, 'Test Set Accuracy': 0.763253106811389, 'Precision score: ': 0.8597560975609756, 'Recall score: ': 0.6252771618625277, 'f1 score: ': 0.72400513478819, 'log loss': 8.17698850789887}
+              precision    recall  f1-score   support
+
+           0       0.71      0.90      0.79      3200
+           1       0.86      0.63      0.72      3157
+
+    accuracy                           0.76      6357
+   macro avg       0.78      0.76      0.76      6357
+weighted avg       0.78      0.76      0.76      6357
+
+col_0     0     1
+Class            
+0      2878   322
+1      1183  1974
+{'Model name': 'SGDClassifier', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.7741360323037391, 'Test Set Accuracy': 0.7741072833097373, 'Precision score: ': 0.8697894284486464, 'Recall score: ': 0.6411149825783972, 'f1 score: ': 0.7381473377097009, 'log loss': 7.802096143009767}
+              precision    recall  f1-score   support
+
+           0       0.72      0.91      0.80      3200
+           1       0.87      0.64      0.74      3157
+
+    accuracy                           0.77      6357
+   macro avg       0.79      0.77      0.77      6357
+weighted avg       0.79      0.77      0.77      6357
+
+col_0     0     1
+Class            
+0      2897   303
+1      1133  2024
+{'Model name': 'SGDClassifier', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.7721607495586205, 'Test Set Accuracy': 0.7759949661790153, 'Precision score: ': 0.867316659601526, 'Recall score: ': 0.6480836236933798, 'f1 score: ': 0.741841914430747, 'log loss': 7.736899144305249}
+              precision    recall  f1-score   support
+
+           0       0.72      0.90      0.80      3200
+           1       0.87      0.65      0.74      3157
+
+    accuracy                           0.78      6357
+   macro avg       0.79      0.78      0.77      6357
+weighted avg       0.79      0.78      0.77      6357
+
+col_0     0     1
+Class            
+0      2887   313
+1      1111  2046
+{'Model name': 'SGDClassifier', 'N_Gram Range': [1, 5], 'Training Set Accuracy': 0.773681542468579, 'Test Set Accuracy': 0.7706465313827277, 'Precision score: ': 0.8647488192357234, 'Recall score: ': 0.6379474184352233, 'f1 score: ': 0.7342325920524972, 'log loss': 7.921627789361379}
+              precision    recall  f1-score   support
+
+           0       0.72      0.90      0.80      3200
+           1       0.86      0.64      0.73      3157
+
+    accuracy                           0.77      6357
+   macro avg       0.79      0.77      0.77      6357
+weighted avg       0.79      0.77      0.77      6357
+
+col_0     0     1
+Class            
+0      2885   315
+1      1143  2014
+{'Model name': 'Baggingclassifier', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.994021710629818, 'Test Set Accuracy': 0.6751612395784174, 'Precision score: ': 0.9074626865671642, 'Recall score: ': 0.38517579980994615, 'f1 score: ': 0.5408049810985102, 'log loss': 11.219548907593504}
+              precision    recall  f1-score   support
+
+           0       0.61      0.96      0.75      3200
+           1       0.91      0.39      0.54      3157
+
+    accuracy                           0.68      6357
+   macro avg       0.76      0.67      0.64      6357
+weighted avg       0.76      0.68      0.65      6357
+
+col_0     0     1
+Class            
+0      3076   124
+1      1941  1216
+{'Model name': 'Baggingclassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.9530826647088643, 'Test Set Accuracy': 0.6702847254994494, 'Precision score: ': 0.898572501878287, 'Recall score: ': 0.37884067152359835, 'f1 score: ': 0.5329768270944741, 'log loss': 11.38797912055779}
+              precision    recall  f1-score   support
+
+           0       0.61      0.96      0.75      3200
+           1       0.90      0.38      0.53      3157
+
+    accuracy                           0.67      6357
+   macro avg       0.75      0.67      0.64      6357
+weighted avg       0.75      0.67      0.64      6357
+
+col_0     0     1
+Class            
+0      3065   135
+1      1961  1196
+{'Model name': 'Baggingclassifier', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.950845176289615, 'Test Set Accuracy': 0.6334749095485291, 'Precision score: ': 0.8797061524334252, 'Recall score: ': 0.30345264491605956, 'f1 score: ': 0.45124823363165334, 'log loss': 12.659344619695652}
+              precision    recall  f1-score   support
+
+           0       0.58      0.96      0.72      3200
+           1       0.88      0.30      0.45      3157
+
+    accuracy                           0.63      6357
+   macro avg       0.73      0.63      0.59      6357
+weighted avg       0.73      0.63      0.59      6357
+
+col_0     0    1
+Class           
+0      3069  131
+1      2199  958
+{'Model name': 'Baggingclassifier', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.952750537521632, 'Test Set Accuracy': 0.6532955796759478, 'Precision score: ': 0.8947804473902237, 'Recall score: ': 0.34209692746278114, 'f1 score: ': 0.49495875343721357, 'log loss': 11.974762423038662}
+              precision    recall  f1-score   support
+
+           0       0.60      0.96      0.74      3200
+           1       0.89      0.34      0.49      3157
+
+    accuracy                           0.65      6357
+   macro avg       0.75      0.65      0.62      6357
+weighted avg       0.74      0.65      0.62      6357
+
+col_0     0     1
+Class            
+0      3073   127
+1      2077  1080
+{'Model name': 'Adaboostclassifier', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.76534340203122, 'Test Set Accuracy': 0.6090923391536889, 'Precision score: ': 0.5632768361581921, 'Recall score: ': 0.9474184352233133, 'f1 score: ': 0.7065076178103225, 'log loss': 13.501763977944577}
+              precision    recall  f1-score   support
+
+           0       0.84      0.28      0.41      3200
+           1       0.56      0.95      0.71      3157
+
+    accuracy                           0.61      6357
+   macro avg       0.70      0.61      0.56      6357
+weighted avg       0.70      0.61      0.56      6357
+
+col_0    0     1
+Class           
+0      881  2319
+1      166  2991
+{'Model name': 'Adaboostclassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.7621969339416504, 'Test Set Accuracy': 0.7415447538146924, 'Precision score: ': 0.74185303514377, 'Recall score: ': 0.7355083940449794, 'f1 score: ': 0.7386670908223317, 'log loss': 8.926829588101597}
+              precision    recall  f1-score   support
+
+           0       0.74      0.75      0.74      3200
+           1       0.74      0.74      0.74      3157
+
+    accuracy                           0.74      6357
+   macro avg       0.74      0.74      0.74      6357
+weighted avg       0.74      0.74      0.74      6357
+
+col_0     0     1
+Class            
+0      2392   808
+1       835  2322
+{'Model name': 'Adaboostclassifier', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.762581502263709, 'Test Set Accuracy': 0.6147553877615227, 'Precision score: ': 0.5670708601743084, 'Recall score: ': 0.948051948051948, 'f1 score: ': 0.7096621221102549, 'log loss': 13.306164931770372}
+              precision    recall  f1-score   support
+
+           0       0.85      0.29      0.43      3200
+           1       0.57      0.95      0.71      3157
+
+    accuracy                           0.61      6357
+   macro avg       0.71      0.62      0.57      6357
+weighted avg       0.71      0.61      0.57      6357
+
+col_0    0     1
+Class           
+0      915  2285
+1      164  2993
+{'Model name': 'Adaboostclassifier', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.7639100110126383, 'Test Set Accuracy': 0.6116092496460594, 'Precision score: ': 0.5649301623254058, 'Recall score: ': 0.948051948051948, 'f1 score: ': 0.7079834417504435, 'log loss': 13.414831208291815}
+              precision    recall  f1-score   support
+
+           0       0.85      0.28      0.42      3200
+           1       0.56      0.95      0.71      3157
+
+    accuracy                           0.61      6357
+   macro avg       0.71      0.61      0.56      6357
+weighted avg       0.71      0.61      0.56      6357
+
+col_0    0     1
+Class           
+0      895  2305
+1      164  2993
+{'Model name': 'GradientBoostingClassifier', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.7633331585295505, 'Test Set Accuracy': 0.6877457920402705, 'Precision score: ': 0.7830917874396135, 'Recall score: ': 0.5134621476084891, 'f1 score: ': 0.6202410560550985, 'log loss': 10.784934743297761}
+              precision    recall  f1-score   support
+
+           0       0.64      0.86      0.73      3200
+           1       0.78      0.51      0.62      3157
+
+    accuracy                           0.69      6357
+   macro avg       0.71      0.69      0.68      6357
+weighted avg       0.71      0.69      0.68      6357
+
+col_0     0     1
+Class            
+0      2751   449
+1      1536  1621
+{'Model name': 'GradientBoostingClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.769101683360428, 'Test Set Accuracy': 0.7083529966965549, 'Precision score: ': 0.7491395793499044, 'Recall score: ': 0.6205258156477669, 'f1 score: ': 0.6787941787941787, 'log loss': 10.073213146465095}
+              precision    recall  f1-score   support
+
+           0       0.68      0.80      0.73      3200
+           1       0.75      0.62      0.68      3157
+
+    accuracy                           0.71      6357
+   macro avg       0.71      0.71      0.71      6357
+weighted avg       0.71      0.71      0.71      6357
+
+col_0     0     1
+Class            
+0      2544   656
+1      1198  1959
+{'Model name': 'GradientBoostingClassifier', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.7649063925743353, 'Test Set Accuracy': 0.5691363850873054, 'Precision score: ': 0.5486725663716814, 'Recall score: ': 0.7462781121317706, 'f1 score: ': 0.6323983357938531, 'log loss': 14.88174581807143}
+              precision    recall  f1-score   support
+
+           0       0.61      0.39      0.48      3200
+           1       0.55      0.75      0.63      3157
+
+    accuracy                           0.57      6357
+   macro avg       0.58      0.57      0.56      6357
+weighted avg       0.58      0.57      0.56      6357
+
+col_0     0     1
+Class            
+0      1262  1938
+1       801  2356
+{'Model name': 'GradientBoostingClassifier', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.7659552152708584, 'Test Set Accuracy': 0.7080383828850086, 'Precision score: ': 0.8021365536460753, 'Recall score: ': 0.5470383275261324, 'f1 score: ': 0.6504708097928436, 'log loss': 10.084050592647396}
+              precision    recall  f1-score   support
+
+           0       0.66      0.87      0.75      3200
+           1       0.80      0.55      0.65      3157
+
+    accuracy                           0.71      6357
+   macro avg       0.73      0.71      0.70      6357
+weighted avg       0.73      0.71      0.70      6357
+
+col_0     0     1
+Class            
+0      2774   426
+1      1430  1727
+{'Model name': 'DecisionTreeClassifier', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 1.0, 'Test Set Accuracy': 0.655497876356772, 'Precision score: ': 0.9093988145639289, 'Recall score: ': 0.34019638897687676, 'f1 score: ': 0.4951590594744121, 'log loss': 11.898695274780467}
+              precision    recall  f1-score   support
+
+           0       0.60      0.97      0.74      3200
+           1       0.91      0.34      0.50      3157
+
+    accuracy                           0.66      6357
+   macro avg       0.75      0.65      0.62      6357
+weighted avg       0.75      0.66      0.62      6357
+
+col_0     0     1
+Class            
+0      3093   107
+1      2083  1074
+{'Model name': 'DecisionTreeClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 1.0, 'Test Set Accuracy': 0.6396098788736826, 'Precision score: ': 0.9001848428835489, 'Recall score: ': 0.3085207475451378, 'f1 score: ': 0.4595423448926634, 'log loss': 12.447447392993999}
+              precision    recall  f1-score   support
+
+           0       0.59      0.97      0.73      3200
+           1       0.90      0.31      0.46      3157
+
+    accuracy                           0.64      6357
+   macro avg       0.74      0.64      0.59      6357
+weighted avg       0.74      0.64      0.60      6357
+
+col_0     0    1
+Class           
+0      3092  108
+1      2183  974
+{'Model name': 'DecisionTreeClassifier', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 1.0, 'Test Set Accuracy': 0.6504640553720308, 'Precision score: ': 0.9012875536480687, 'Recall score: ': 0.3325942350332594, 'f1 score: ': 0.48588616381304955, 'log loss': 12.072558298442035}
+              precision    recall  f1-score   support
+
+           0       0.59      0.96      0.74      3200
+           1       0.90      0.33      0.49      3157
+
+    accuracy                           0.65      6357
+   macro avg       0.75      0.65      0.61      6357
+weighted avg       0.75      0.65      0.61      6357
+
+col_0     0     1
+Class            
+0      3085   115
+1      2107  1050
+{'Model name': 'DecisionTreeClassifier', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 1.0, 'Test Set Accuracy': 0.6594305490011011, 'Precision score: ': 0.9085667215815486, 'Recall score: ': 0.3493823249920811, 'f1 score: ': 0.504690002287806, 'log loss': 11.762866076812394}
+              precision    recall  f1-score   support
+
+           0       0.60      0.97      0.74      3200
+           1       0.91      0.35      0.50      3157
+
+    accuracy                           0.66      6357
+   macro avg       0.75      0.66      0.62      6357
+weighted avg       0.75      0.66      0.62      6357
+
+col_0     0     1
+Class            
+0      3089   111
+1      2054  1103
+{'Model name': 'KNeighborsClassifier', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.6695684094603808, 'Test Set Accuracy': 0.6446436998584237, 'Precision score: ': 0.9776595744680852, 'Recall score: ': 0.29109914475768134, 'f1 score: ': 0.4486209421527947, 'log loss': 12.273574432538819}
+              precision    recall  f1-score   support
+
+           0       0.59      0.99      0.74      3200
+           1       0.98      0.29      0.45      3157
+
+    accuracy                           0.64      6357
+   macro avg       0.78      0.64      0.59      6357
+weighted avg       0.78      0.64      0.59      6357
+
+col_0     0    1
+Class           
+0      3179   21
+1      2238  919
+{'Model name': 'KNeighborsClassifier', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.6555316657052459, 'Test Set Accuracy': 0.6224634261444077, 'Precision score: ': 0.9447708578143361, 'Recall score: ': 0.2546721571111815, 'f1 score: ': 0.40119760479041916, 'log loss': 13.03965721706227}
+              precision    recall  f1-score   support
+
+           0       0.57      0.99      0.72      3200
+           1       0.94      0.25      0.40      3157
+
+    accuracy                           0.62      6357
+   macro avg       0.76      0.62      0.56      6357
+weighted avg       0.76      0.62      0.56      6357
+
+col_0     0    1
+Class           
+0      3153   47
+1      2353  804
+{'Model name': 'KNeighborsClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.7070638208610834, 'Test Set Accuracy': 0.6868019506056315, 'Precision score: ': 0.9724473257698542, 'Recall score: ': 0.3801076971808679, 'f1 score: ': 0.5465725347301299, 'log loss': 10.817481671949002}
+              precision    recall  f1-score   support
+
+           0       0.62      0.99      0.76      3200
+           1       0.97      0.38      0.55      3157
+
+    accuracy                           0.69      6357
+   macro avg       0.80      0.68      0.65      6357
+weighted avg       0.79      0.69      0.65      6357
+
+col_0     0     1
+Class            
+0      3166    34
+1      1957  1200
+{'Model name': 'KNeighborsClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.6418620098938941, 'Test Set Accuracy': 0.5892716690262703, 'Precision score: ': 0.9963636363636363, 'Recall score: ': 0.17358251504592967, 'f1 score: ': 0.29565686538980307, 'log loss': 14.186054234120917}
+              precision    recall  f1-score   support
+
+           0       0.55      1.00      0.71      3200
+           1       1.00      0.17      0.30      3157
+
+    accuracy                           0.59      6357
+   macro avg       0.77      0.59      0.50      6357
+weighted avg       0.77      0.59      0.50      6357
+
+col_0     0    1
+Class           
+0      3198    2
+1      2609  548
+{'Model name': 'KNeighborsClassifier', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.6426136661597357, 'Test Set Accuracy': 0.5887997483089508, 'Precision score: ': 0.998165137614679, 'Recall score: ': 0.17231548938866012, 'f1 score: ': 0.2938951917882226, 'log loss': 14.20235367247034}
+              precision    recall  f1-score   support
+
+           0       0.55      1.00      0.71      3200
+           1       1.00      0.17      0.29      3157
+
+    accuracy                           0.59      6357
+   macro avg       0.77      0.59      0.50      6357
+weighted avg       0.77      0.59      0.50      6357
+
+col_0     0    1
+Class           
+0      3199    1
+1      2613  544
+{'Model name': 'KNeighborsClassifier', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.6452357229010436, 'Test Set Accuracy': 0.5999685386188454, 'Precision score: ': 0.9967637540453075, 'Recall score: ': 0.1951219512195122, 'f1 score: ': 0.3263576158940397, 'log loss': 13.816597447137445}
+              precision    recall  f1-score   support
+
+           0       0.56      1.00      0.72      3200
+           1       1.00      0.20      0.33      3157
+
+    accuracy                           0.60      6357
+   macro avg       0.78      0.60      0.52      6357
+weighted avg       0.78      0.60      0.52      6357
+
+col_0     0    1
+Class           
+0      3198    2
+1      2541  616
+{'Model name': 'LinearSVC', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.99954551016484, 'Test Set Accuracy': 0.8065125058990089, 'Precision score: ': 0.895363151415675, 'Recall score: ': 0.6911624960405448, 'f1 score: ': 0.7801215588130139, 'log loss': 6.6828533684261195}
+              precision    recall  f1-score   support
+
+           0       0.75      0.92      0.83      3200
+           1       0.90      0.69      0.78      3157
+
+    accuracy                           0.81      6357
+   macro avg       0.82      0.81      0.80      6357
+weighted avg       0.82      0.81      0.80      6357
+
+col_0     0     1
+Class            
+0      2945   255
+1       975  2182
+{'Model name': 'LinearSVC', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.9995804709213907, 'Test Set Accuracy': 0.803680981595092, 'Precision score: ': 0.8816473410635746, 'Recall score: ': 0.6984478935698448, 'f1 score: ': 0.7794273594909863, 'log loss': 6.780655910285964}
+              precision    recall  f1-score   support
+
+           0       0.75      0.91      0.82      3200
+           1       0.88      0.70      0.78      3157
+
+    accuracy                           0.80      6357
+   macro avg       0.82      0.80      0.80      6357
+weighted avg       0.82      0.80      0.80      6357
+
+col_0     0     1
+Class            
+0      2904   296
+1       952  2205
+{'Model name': 'LinearSVC', 'N_Gram Range': [3, 3], 'Training Set Accuracy': 0.9996329120562168, 'Test Set Accuracy': 0.7975460122699386, 'Precision score: ': 0.891213389121339, 'Recall score: ': 0.6746911624960406, 'f1 score: ': 0.7679826933477556, 'log loss': 6.9925457158379585}
+              precision    recall  f1-score   support
+
+           0       0.74      0.92      0.82      3200
+           1       0.89      0.67      0.77      3157
+
+    accuracy                           0.80      6357
+   macro avg       0.82      0.80      0.79      6357
+weighted avg       0.82      0.80      0.79      6357
+
+col_0     0     1
+Class            
+0      2940   260
+1      1027  2130
+{'Model name': 'LinearSVC', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.9995979512996661, 'Test Set Accuracy': 0.80556866446437, 'Precision score: ': 0.8934862761163458, 'Recall score: ': 0.6908457396262274, 'f1 score: ': 0.7792068595927116, 'log loss': 6.715453125600355}
+              precision    recall  f1-score   support
+
+           0       0.75      0.92      0.83      3200
+           1       0.89      0.69      0.78      3157
+
+    accuracy                           0.81      6357
+   macro avg       0.82      0.80      0.80      6357
+weighted avg       0.82      0.81      0.80      6357
+
+col_0     0     1
+Class            
+0      2940   260
+1       976  2181
+{'Model name': 'NearestCentroid', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.7406436275280998, 'Test Set Accuracy': 0.7454774264590216, 'Precision score: ': 0.8157570783750513, 'Recall score: ': 0.6297117516629712, 'f1 score: ': 0.7107615302109404, 'log loss': 8.790954731195791}
+              precision    recall  f1-score   support
+
+           0       0.70      0.86      0.77      3200
+           1       0.82      0.63      0.71      3157
+
+    accuracy                           0.75      6357
+   macro avg       0.76      0.74      0.74      6357
+weighted avg       0.76      0.75      0.74      6357
+
+col_0     0     1
+Class            
+0      2751   449
+1      1169  1988
+{'Model name': 'NearestCentroid', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.7755169821874945, 'Test Set Accuracy': 0.7448481988359289, 'Precision score: ': 0.8123728123728123, 'Recall score: ': 0.6322458029775103, 'f1 score: ': 0.7110794442465265, 'log loss': 8.81268899275766}
+              precision    recall  f1-score   support
+
+           0       0.70      0.86      0.77      3200
+           1       0.81      0.63      0.71      3157
+
+    accuracy                           0.74      6357
+   macro avg       0.76      0.74      0.74      6357
+weighted avg       0.76      0.74      0.74      6357
+
+col_0     0     1
+Class            
+0      2739   461
+1      1161  1996
+{'Model name': 'NearestCentroid', 'N_Gram Range': [1, 4], 'Training Set Accuracy': 0.7405387452584474, 'Test Set Accuracy': 0.749724712914897, 'Precision score: ': 0.8129496402877698, 'Recall score: ': 0.6442825467215711, 'f1 score: ': 0.7188549213641986, 'log loss': 8.64426104387293}
+              precision    recall  f1-score   support
+
+           0       0.71      0.85      0.77      3200
+           1       0.81      0.64      0.72      3157
+
+    accuracy                           0.75      6357
+   macro avg       0.76      0.75      0.75      6357
+weighted avg       0.76      0.75      0.75      6357
+
+col_0     0     1
+Class            
+0      2732   468
+1      1123  2034
+{'Model name': 'NuSVC', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.8064048106001014, 'Test Set Accuracy': 0.7840176183734466, 'Precision score: ': 0.8713572023313905, 'Recall score: ': 0.6629711751662971, 'f1 score: ': 0.7530131318582478, 'log loss': 7.459806050938854}
+              precision    recall  f1-score   support
+
+           0       0.73      0.90      0.81      3200
+           1       0.87      0.66      0.75      3157
+
+    accuracy                           0.78      6357
+   macro avg       0.80      0.78      0.78      6357
+weighted avg       0.80      0.78      0.78      6357
+
+col_0     0     1
+Class            
+0      2891   309
+1      1064  2093
+{'Model name': 'KNeighborsClassifier', 'N_Gram Range': [1, 1], 'Training Set Accuracy': 0.6472459664027129, 'Test Set Accuracy': 0.5925751140475067, 'Precision score: ': 1.0, 'Recall score: ': 0.17960088691796008, 'f1 score: ': 0.3045112781954887, 'log loss': 14.071957033635153}
+              precision    recall  f1-score   support
+
+           0       0.55      1.00      0.71      3200
+           1       1.00      0.18      0.30      3157
+
+    accuracy                           0.59      6357
+   macro avg       0.78      0.59      0.51      6357
+weighted avg       0.77      0.59      0.51      6357
+
+col_0     0    1
+Class           
+0      3200    0
+1      2590  567
+{'Model name': 'KNeighborsClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.656667890293146, 'Test Set Accuracy': 0.64196948246028, 'Precision score: ': 0.9741657696447793, 'Recall score: ': 0.28666455495723786, 'f1 score: ': 0.4429760156632403, 'log loss': 12.365939006631278}
+              precision    recall  f1-score   support
+
+           0       0.59      0.99      0.74      3200
+           1       0.97      0.29      0.44      3157
+
+    accuracy                           0.64      6357
+   macro avg       0.78      0.64      0.59      6357
+weighted avg       0.78      0.64      0.59      6357
+
+col_0     0    1
+Class           
+0      3176   24
+1      2252  905
+{'Model name': 'KNeighborsClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.6843393291030818, 'Test Set Accuracy': 0.6757904672015101, 'Precision score: ': 0.9440842787682334, 'Recall score: ': 0.3690212226797593, 'f1 score: ': 0.5306308358005011, 'log loss': 11.197809237397136}
+              precision    recall  f1-score   support
+
+           0       0.61      0.98      0.75      3200
+           1       0.94      0.37      0.53      3157
+
+    accuracy                           0.68      6357
+   macro avg       0.78      0.67      0.64      6357
+weighted avg       0.78      0.68      0.64      6357
+
+col_0     0     1
+Class            
+0      3131    69
+1      1992  1165
+{'Model name': 'KNeighborsClassifier', 'N_Gram Range': [2, 2], 'Training Set Accuracy': 0.6822416837100355, 'Test Set Accuracy': 0.6795658329400661, 'Precision score: ': 0.9523424878836834, 'Recall score: ': 0.3734558124802027, 'f1 score: ': 0.5365187713310581, 'log loss': 11.067411466522174}
+              precision    recall  f1-score   support
+
+           0       0.61      0.98      0.76      3200
+           1       0.95      0.37      0.54      3157
+
+    accuracy                           0.68      6357
+   macro avg       0.78      0.68      0.65      6357
+weighted avg       0.78      0.68      0.65      6357
+
+col_0     0     1
+Class            
+0      3141    59
+1      1978  1179
