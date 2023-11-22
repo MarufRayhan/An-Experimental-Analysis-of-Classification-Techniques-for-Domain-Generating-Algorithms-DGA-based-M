@@ -1,4 +1,6 @@
-This repository contains work on the classification of malicious and non-malicious URLs using Machine Learning by tuning the n-gram range.
+#An Experimental Analysis of Classification Techniques for Domain Generating Algorithms (DGA) based Malicious Domains Detection
+
+This repository contains work on the classification of malicious and non-malicious URLs using Machine Learning by tuning the n-gram range. The research paper can be found [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JekLRZ4AAAAJ&citation_for_view=JekLRZ4AAAAJ:u5HHmVD_uO8C)
 
 ## Installation
 
